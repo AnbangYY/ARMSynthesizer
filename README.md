@@ -4,4 +4,4 @@
 - The music played here is... Well, you can reference it from this picture below.
 
 
-![Screenshot](Coffin-Dance-Meme-Transparent-Background.png)
+![Screenshot](cd.png)
